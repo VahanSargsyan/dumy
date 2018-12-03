@@ -6,7 +6,8 @@
     "imgLink": "https://imprc-resources.azureedge.net/46088aef-3d9e-4ce2-b18b-ec83f0b37a83/photomedium.jpg",
     "profileLink": "#",
     "subjects": ["phis", "armLang"],
-    "classes": ["4", "5", "6", "7", "8", "9"]
+    "classes": ["4", "5", "6", "7", "8", "9"],
+    "id": "001"
   },
   {
     "name": "Անուն Ազգանուն 2",
@@ -14,7 +15,8 @@
     "price": "5000",
     "imgLink": "https://imprc-resources.azureedge.net/46088aef-3d9e-4ce2-b18b-ec83f0b37a83/photomedium.jpg",
     "profileLink": "#",
-    "subjects": ["6", "7", "8", "5"],
-    "classes": ["armLang"]
+    "subjects":  ["armLang"],
+    "classes": ["6", "7", "8", "5"],
+    "id": "002"
   }
 ]
